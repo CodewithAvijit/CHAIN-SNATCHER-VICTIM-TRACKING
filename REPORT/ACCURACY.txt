@@ -1,2 +1,2 @@
-Train Accuracy: 87.71%
-Test Accuracy: 52.28%
+Train Accuracy: 79.25%
+Test Accuracy: 58.66%
